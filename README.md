@@ -41,7 +41,9 @@ The target for this project is `ignition`
 
 The solution to this test (the source code, the test code and the notebook with its outputs) should be saved on a private descartes-data-sci repository on your github account.
 
-Access should be granted to all members of the [descartes-underwriting group](https://github.com/orgs/descartes-underwriting/people).
+Access should be granted to:
+
+- <https://github.com/plecntre>
 
 Notebooks should be saved with outputs.
 
