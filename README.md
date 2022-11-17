@@ -43,24 +43,7 @@ The solution to this test (the source code, the test code and the notebook with 
 
 Access should be granted to:
 
-- <https://github.com/plecntre>
-- <https://github.com/tqa236>
-- <https://github.com/teddahbi>
 - <https://github.com/SanaNABLI>
-- <https://github.com/rougiercharlotte>
-- <https://github.com/philemongamet>
-- <https://github.com/MInfantino>
-- <https://github.com/matteokarldonati>
-- <https://github.com/MatteoInsoliaDC>
-- <https://github.com/KaisDU>
-- <https://github.com/hamidkhandahari>
-- <https://github.com/dianamb19>
-- <https://github.com/dc-herve>
-- <https://github.com/claudiatorresperez>
-- <https://github.com/alexis-violeau-dc>
-- <https://github.com/akshaydescartes>
-- <https://github.com/afafelwafi>
-- <https://github.com/A-Roucher>
 
 Notebooks should be saved with outputs.
 
